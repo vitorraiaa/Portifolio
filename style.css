@@ -10,13 +10,13 @@
     background-color: #000000;
     overflow: hidden;
     width: 100%;
-    height: 6312px;
+    height: 6600px;
     position: relative;
 }
 
-.desktop .text-wrapper {
+.desktop .NOME {
     position: absolute;
-    width: 689px;
+    width: 33%;
     top: 252px;
     left: 100px;
     font-family: "Inter-ExtraBold", Helvetica;
@@ -31,9 +31,9 @@
 
 .desktop .hello-i-m-vitor {
     position: absolute;
-    width: 504px;
+    width: 33%;
     top: 1417px;
-    left: 936px;
+    left: 50%;
     font-family: "Inter-ExtraBold", Helvetica;
     font-weight: 400;
     color: #ffffff;
@@ -55,27 +55,27 @@
     font-weight: 900;
 }
 
-.desktop .rectangle {
-    width: 419px;
+.desktop .foto1 {
+    width: 30%;
     height: 531px;
-    top: 224px;
+    top: 4%;
     left: 1011px;
     position: absolute;
     object-fit: cover;
 }
 
-.desktop .img {
-    width: 363px;
+.desktop .foto2 {
+    width: 24%;
     height: 454px;
     top: 1301px;
-    left: 281px;
+    left: 10%;
     position: absolute;
     object-fit: cover;
 }
 
-.desktop .overlap-group {
+.desktop .PROJECTS {
     position: absolute;
-    width: 1535px;
+    width: 88%;
     height: 1100px;
     top: 2095px;
     left: 98px;
@@ -83,11 +83,11 @@
     border-radius: 53px;
 }
 
-.desktop .text-wrapper-4 {
+.desktop .textprojects {
     position: absolute;
-    width: 254px;
+    width: 15%;
     top: 121px;
-    left: 44px;
+    left: 3%;
     font-family: "Inter-ExtraBold", Helvetica;
     font-weight: 800;
     color: #000000;
@@ -97,30 +97,30 @@
     line-height: normal;
 }
 
-.desktop .overlap {
+.desktop .overlapmunch {
     position: absolute;
-    width: 1084px;
+    width: 70%;
     height: 712px;
     top: 299px;
-    left: 226px;
+    left: 15%;
     background-color: #000000;
     border-radius: 51px;
 }
 
-.desktop .rectangle-2 {
+.desktop .fotoprojeto {
     width: 451px;
     height: 277px;
     top: 251px;
-    left: 81px;
+    left: 6%;
     position: absolute;
     object-fit: cover;
 }
 
-.desktop .text-wrapper-5 {
+.desktop .nomeprojeto {
     position: absolute;
-    width: 224px;
+    width: 20%;
     top: 101px;
-    left: 81px;
+    left: 5%;
     font-family: "Inter-ExtraBold", Helvetica;
     font-weight: 800;
     color: #ffffff;
@@ -132,9 +132,9 @@
 
 .desktop .este-um-projeto-de {
     position: absolute;
-    width: 365px;
+    width: 30%;
     top: 298px;
-    left: 627px;
+    left: 60%;
     font-family: "Inter-Regular", Helvetica;
     font-weight: 400;
     color: #ffffff;
@@ -165,9 +165,9 @@
 
 .desktop .text-wrapper-9 {
     position: absolute;
-    width: 270px;
+    width: 15%;
     top: 3444px;
-    left: 116px;
+    left: 7%;
     font-family: "Inter-ExtraBold", Helvetica;
     font-weight: 800;
     color: #ffffff;
@@ -467,7 +467,7 @@
     position: absolute;
     width: 100%;
     height: 188px;
-    top: 6124px;
+    top: 6422px;
     left: 0;
     background-color: #ffffff;
 }
@@ -561,7 +561,7 @@
     position: absolute;
     width: 1535px;
     height: 853px;
-    top: 5158px;
+    top: 5458px;
     left: 98px;
     background-color: #ffffff;
     border-radius: 53px;
