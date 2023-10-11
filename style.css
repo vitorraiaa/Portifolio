@@ -178,7 +178,7 @@
 }
 
 .desktop .ellipse {
-    left: 489px;
+    left: 28%;
     position: absolute;
     width: 213px;
     height: 213px;
@@ -188,9 +188,9 @@
 
 .desktop .text-wrapper-10 {
     position: absolute;
-    width: 254px;
+    width: 15%;
     top: 3919px;
-    left: 462px;
+    left: 26%;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
@@ -202,9 +202,9 @@
 
 .desktop .text-wrapper-11 {
     position: absolute;
-    width: 98px;
+    width: 5%;
     top: 3919px;
-    left: 1107px;
+    left: 63%;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
@@ -215,7 +215,7 @@
 }
 
 .desktop .ellipse-2 {
-    left: 1049px;
+    left: 60%;
     position: absolute;
     width: 213px;
     height: 213px;
@@ -225,9 +225,9 @@
 
 .desktop .text-wrapper-12 {
     position: absolute;
-    width: 232px;
+    width: 10%;
     top: 4919px;
-    left: 452px;
+    left: 27%;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
@@ -239,9 +239,9 @@
 
 .desktop .HTML-and-CSS {
     position: absolute;
-    width: 189px;
+    width: 10%;
     top: 4915px;
-    left: 1030px;
+    left: 59%;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
@@ -255,7 +255,7 @@
     width: 274px;
     height: 204px;
     top: 4678px;
-    left: 431px;
+    left: 24%;
     position: absolute;
     object-fit: cover;
 }
@@ -264,16 +264,16 @@
     width: 274px;
     height: 202px;
     top: 4678px;
-    left: 988px;
+    left: 56%;
     position: absolute;
     object-fit: cover;
 }
 
 .desktop .text-wrapper-13 {
     position: absolute;
-    width: 311px;
+    width: 15%;
     top: 3967px;
-    left: 440px;
+    left: 26%;
     font-family: "Inter-SemiBold", Helvetica;
     font-weight: 600;
     color: #ffffff;
@@ -285,9 +285,9 @@
 
 .desktop .text-wrapper-14 {
     position: absolute;
-    width: 230px;
+    width: 10%;
     top: 3967px;
-    left: 1041px;
+    left: 61%;
     font-family: "Inter-SemiBold", Helvetica;
     font-weight: 600;
     color: #ffffff;
@@ -299,9 +299,9 @@
 
 .desktop .FULL-STACK-DEVELOPER {
     position: absolute;
-    width: 452px;
+    width: 35%;
     top: 345px;
-    left: 88px;
+    left: 0%;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
